@@ -1,0 +1,19 @@
+/*侧边栏logo样式*/
+.side_logo .logo {
+    width: 100px;
+    height: 100px;
+}
+.side_logo .logo_img {
+    width: 50px;
+    height: 50px;
+}
+a {
+    text-decoration:none;
+}
+/*图片裁剪弹框*/
+.cropper-content .cropper {
+    /*width或height*80%*/
+    width: 300px;
+    height: 150px;
+    margin: 0 auto;
+}
